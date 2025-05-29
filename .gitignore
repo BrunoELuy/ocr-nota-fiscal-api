@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+logs/
+*.log
+*.pdf
+poppler-*/
+.DS_Store
+Thumbs.db
+.env
+iniciar_meu_rpa.bat

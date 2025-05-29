@@ -1,0 +1,25 @@
+{
+    "cnpjFornecedor": "12345678000199",
+    "nrContrato": "434",
+    "codEstab": "443",
+    "codCentroCusto": "0",
+    "codContaContabil": "0",
+    "tipoDespesa": "0",
+    "nrNotaFiscal": "74124",
+    "dtEmissao": "22/05/2024",
+    "dtVencimento": "21/06/2024",
+    "qtdeTotalNf": "35.7000",
+    "valorNf": "3570.00",
+    "descricao": "Compra de benefícios - Auxilio Alimentação e Refeição",
+    "lstProdServ": [
+        {
+            "nomeProdServ": "Auxilio Alimentação e Refeição",
+            "valorProdServ": "100.00",
+            "vlTotalProdServ": "3570.00",
+            "qtdeProdServ": "35.7000",
+            "sequencia": 1.0
+        }
+    ],
+    "nrCOF0080Aprovado": "-",
+    "fileHashNF": "JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9MZW5ndGggMzg5Pj4Kc3RyZWFtCnicbZLNbtQwFIX3fYqzYFEk6rn+i+ORWJjEI1KNkiFxZx91plJQp6mGIFjwZOxY8QK8AQtWfQecSUGCzM6yzneuz7kWuL4gpg0+XbwJWKw4uGBECHfwYbwSUjCVwFjNjEHY4bKsgsOqaDK3hl/7UP8oi8y9RHj/jEjOuIWRltFEZOXmejkaS6VZYtIFEfEra+cMJ2bkXwahP7S7/hhZkqkiqyMoiWZckkbv9MTVmwblVxjFhZrrtGI0+eft0GLXIusPj8d2CSEWpBeCzlEivtpOr+ofhmM79FByrtPWxIQn3datqxohNrVGXqHx9bb4XuE16heQsW56dSaFTuyp+nHOW7f1yD1c5pumWkIJnUhDXEguteFzVhFL9JTMN6EoXfhWFxH0Md7+Q4tVdzs83XYtGubYHB+XM43e1FV+E6pmOROpVDKbnERXcB8/P913Pdx9d9g/DO2vnz2+4F3I47J0PMWgnMV9nQuqdCyU/2dU7+/23eiCPz6CJp/4If8p7DdYcKnzCmVuZHN0cmVhbQplbmRvYmoKMSAwIG9iago8PC9UeXBlIC9QYWdlcwovS2lkcyBbMyAwIFIgXQovQ291bnQgMQovTWVkaWFCb3ggWzAgMCA1OTUuMjggODQxLjg5XQo+PgplbmRvYmoKNSAwIG9iago8PC9UeXBlIC9Gb250Ci9CYXNlRm9udCAvSGVsdmV0aWNhCi9TdWJ0eXBlIC9UeXBlMQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKMiAwIG9iago8PAovUHJvY1NldCBbL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSV0KL0ZvbnQgPDwKL0YxIDUgMCBSCj4+Ci9YT2JqZWN0IDw8Cj4+Cj4+CmVuZG9iago2IDAgb2JqCjw8Ci9Qcm9kdWNlciAoUHlGUERGIDEuNy4yIGh0dHA6Ly9weWZwZGYuZ29vZ2xlY29kZS5jb20vKQovQ3JlYXRpb25EYXRlIChEOjIwMjUwNTI4MTYxODUwKQo+PgplbmRvYmoKNyAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMSAwIFIKL09wZW5BY3Rpb24gWzMgMCBSIC9GaXRIIG51bGxdCi9QYWdlTGF5b3V0IC9PbmVDb2x1bW4KPj4KZW5kb2JqCnhyZWYKMCA4CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDU0NiAwMDAwMCBuIAowMDAwMDAwNzI5IDAwMDAwIG4gCjAwMDAwMDAwMDkgMDAwMDAgbiAKMDAwMDAwMDA4NyAwMDAwMCBuIAowMDAwMDAwNjMzIDAwMDAwIG4gCjAwMDAwMDA4MzMgMDAwMDAgbiAKMDAwMDAwMDk0MiAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9TaXplIDgKL1Jvb3QgNyAwIFIKL0luZm8gNiAwIFIKPj4Kc3RhcnR4cmVmCjEwNDUKJSVFT0YK"
+}
