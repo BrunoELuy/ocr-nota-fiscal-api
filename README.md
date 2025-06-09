@@ -1,4 +1,4 @@
-# Meu_RPA
+# OCR com Nota Fiscal
 
 Este é um sistema de automação criado inicialmente em ambiente profissional e adaptado para ser publicado no GitHub **sem expor informações sensíveis ou privadas**. 
 
